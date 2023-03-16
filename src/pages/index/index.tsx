@@ -151,7 +151,7 @@ const IndexPage: React.FC = () => {
       <PageContainer
         title={
           <>
-            快速生成 SQL 和模拟数据，大幅提高开发测试效率！
+            快速生成 SQL 和模拟数据，大幅提高开发测试效率，让SQL开发变得如此简单！
           </>
         }
         extra={
